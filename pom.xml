@@ -3,8 +3,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   
-  <groupId>com.github.kolavar</groupId>
-  <artifactId>android-support-v4-preferencefragment</artifactId>
+  <groupId>com.android.support</groupId>
+  <artifactId>support-v4-preferencefragment</artifactId>
   <version>1.0.0</version>
   <packaging>apklib</packaging>
   <name>android-support-v4-preferencefragment</name>
